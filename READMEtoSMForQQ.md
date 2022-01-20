@@ -45,6 +45,8 @@ Windows 10 （其他Windows版本无测试，不确定是否能用）
 
 ### sleep参数修改
 
+你可能会觉得运行的很慢，这时候你就可以修改适合自己电脑的sleep参数提高效率。
+
 ```python
     for i in lst:
         m.click(mouseSearchXY[0], mouseSearchXY[1])
