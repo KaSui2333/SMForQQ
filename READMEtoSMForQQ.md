@@ -88,7 +88,7 @@ pip install pyperclip
 
 ```python
 # 安装打包命令的库
-pip install pyinstaller
+pip install pyinstaller==4.4
 # 执行打包命令
 pyinstaller -F -w SMForQQ.py
 ```
